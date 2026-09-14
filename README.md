@@ -35,7 +35,7 @@ The data aggregation pipeline relies on three main SQL queries executed directly
 
 **Initial POST /reports Request (HTTP 201 Created)**
 
-![Swagger Execution Initial](print1.jpeg)
+![Swagger Execution Initial](print1.jpg)
 
 **Duplicate POST /reports Request (HTTP 200 OK - Idempotency Validation)**
 
